@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 title: str = 'Lady'
 name: str = 'Gaga'

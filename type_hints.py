@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 # Without type hints. Previously the IDEs would not be able to see that
 # these were str, int and list.
